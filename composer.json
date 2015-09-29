@@ -16,6 +16,6 @@
       "classmap": [
         "lib/"
       ]
-    }
+    },
     "minimum-stability": "stable"
 }
