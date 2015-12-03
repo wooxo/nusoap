@@ -1,6 +1,6 @@
 {
     "name": "nusphere/nusoap",
-    "version": "0.9.5",
+    "version": "0.9.6",
     "type": "library",
     "description": "NuSoap Repository for Composer with some fixes",
     "authors": [
