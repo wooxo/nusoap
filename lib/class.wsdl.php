@@ -25,6 +25,7 @@ class wsdl extends nusoap_base {
     var $currentOperation;
     var $portTypes = array();
     var $currentPortType;
+    var $currentPortOperation = '';
     var $bindings = array();
     var $currentBinding;
     var $ports = array();

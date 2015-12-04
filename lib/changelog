@@ -646,3 +646,6 @@
 - nusoap_client: do not assign the return value of new by reference (it is deprecated) (thanks Pier-Luc Duchaine)
 - nusoap_base: replace regex function calls (ereg, eregi, split) with PCRE calls (preg_match, preg_split) (thanks Pier-Luc Duchaine)
 - nusoapmime: do not assign the return value of new by reference (it is deprecated)
+
+2015-12-03, version 0.9.6
+- soap_transport_http: added isSkippableCurlHeader() to support HTTP/1.1
